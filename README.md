@@ -20,8 +20,8 @@ This project analyzes a retail dataset to segment customers based on their purch
 ## 🛠️ Tools & Libraries
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- **Jupyter Notebook / Google Colab**
-- **Optional**: Tableau or Power BI for dashboards
+- ** Google Colab **
+
 
 ---
 
